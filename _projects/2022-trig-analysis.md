@@ -1,25 +1,23 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: Ethical Analysis of the Boeing 737 - Max crisis
+description: MAE 3400 course work
+
+
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+The Boeing 737 MAX crisis served as the central case study for MAE 4300: Engineers and Society, providing a grounded context to examine ethical decision-making in large engineering organizations. Over the course of this semester, we were presented with different points of view on how one would analyze the Boeing 737 MAX crisis. More than purely philosophical concern, this case highlighted how an organizational structure with thousands of employees from managerial to engineering position allowed itself to repeatedly partake in ethical misconduct. Through guided worksheets and groups discussions, MAE 4300 showed us how these ethical misconducts are not limited to one individual but embedded in an institutional decision-making process. 
 
+We began this course with understanding what really happened with Boeing between 2018 and 2020. This gave us a good understanding of what this case was all about. We looked at every angle looking at the different stake holders, how they were affected, and how they reacted, if they remained alive after the incidences. After getting this deep understanding, we began a more thorough analysis. 
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+In week six, we began looking at the ethical reasoning through the formulation of critical questions rather than immediate conclusions. Questions like “Should Boeing have removed engineers from managerial roles?” and “Should they have required additional pilot training despite cost pressures?”.  This allowed us to reframe this crisis as a set of competing priorities rather than a single technical failure, leading to two major crashes. These questions turely revealed how engineering authority was overwhelmed and even ignored by financial and managerial pressures. These included major decision-making aspects like the MCAS design, pilot training requirements, and documentation updates. By focusing on questions rather than answers, this stage highlighted that ethical failure often begins long before a system physically fails.
 
+As we moved into weeks seven and eight, our analysis began to look at the facts, emphasizing the importance of distinguishing between material facts, individual actions, and organizational practices. We examined the real source of all the information we were gathering, evaluating whether claims were supported by government reports, internal engineering documents, or informal communication like gossip between pilots and engineers. This process exposed how incomplete knowledge and ambiguous documentation contributed to the two crashes. Importantly, the discussions undertaken throughout these weeks emphasized what was not known at the time decisions were made.
 
-This is how I solved the problem:
+As we progressed in the course, our discussions began to lean towards the structural and institutional dimensions of the crisis. We looked at Boeing’s managerial decisions to have their own role on quality assurance and certification processes. Overseeing the responsibilities to the manufacturer truly blurred the boundary between independent regulation and corporate self-interest. While this should be a simple line separating the FAA and Boeing for example, this line began to blur itself, raising fundamental ethical concerns about accountability. Boeing demonstrated how organizational efficiency was prioritized over transparency by having their own review committees for manuals, and safety documentation. Our discussions here showed us how deep Bowing was with their relationship with the FAA. At a certain point, it looked like they were the ones making and checking all these regulations. 
 
-```python
-    some code = 10;
-    plot();
-```
+A few of the recurring themes in this course was the tension within the relationship between cost, safety. These engineering environments had turned into a battlefield where safety was a choice not a standard. This case illustrated how these small safety compromises accumulated into catastrophic incident, especially considering it was embedded in a culture that rewarded schedule adherence and market competitiveness over safety. MAE 4300 emphasized that ethical responsibility does not end at regulatory compliance, but in actively questioning whether compliance itself is sufficient when public safety is at stake.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+Overall, this project demonstrated how one can apply structured ethical reasoning to a complex, real-world engineering failure. By integrating factual analysis, organizational critique, and ethical frameworks, our discussions moved beyond retrospective blame to examine how engineering systems can fail ethically even when individuals like engineers act within formal rules. It further showed us how ethical engineering practice requires sustained critical engagement with both technical and non-technical constraints, a lesson that is directly transferable to large-scale design, safety-critical systems, and leadership roles in engineering practice.
 
